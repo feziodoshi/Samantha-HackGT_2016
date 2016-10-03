@@ -2,7 +2,7 @@
 
 Conversational chatbot using python and chatterbot.
 
-## Chatterbot Installation
+### Chatterbot Installation
 
 This package can be installed from PyPi by running:
 
