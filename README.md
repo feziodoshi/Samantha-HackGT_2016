@@ -1,1 +1,5 @@
-# HACKGT_2061
+# Samantha
+
+Conversational chatbot using python and chatterbot.
+
+
