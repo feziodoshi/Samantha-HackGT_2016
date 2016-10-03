@@ -37,3 +37,8 @@ chatbot.train("chatterbot.corpus.english.conversations")
 
 View the [documentation](http://chatterbot.readthedocs.io/)
 for ChatterBot on Read the Docs.
+
+## TO-DO
+
+- [ ] Add human conversation corpus
+- [ ] Make one chatbot talk to another
