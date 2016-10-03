@@ -1,6 +1,7 @@
 # Samantha
 
 Romantic conversational chatbot using python and [chatterbot](https://github.com/gunthercox/ChatterBot).
+Made at [HackGT 2016](https://hackgt.com). More info at [Devpost](http://devpost.com/software/trumpit-q37awp).
 
 
 ### Chatterbot Installation
